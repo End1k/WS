@@ -45,7 +45,7 @@ import kotlinx.android.synthetic.main.activity_banks.view.*
 
          fun bind(b : BankInfo){
             adress.text = b.position
-             
+
          }
     }
 
