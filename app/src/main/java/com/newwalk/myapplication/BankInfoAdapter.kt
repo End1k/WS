@@ -52,3 +52,4 @@ import kotlinx.android.synthetic.main.activity_banks.view.*
     //val items : ArrayList<String>, val context: Context
     // Gets the number of animals in the list
 
+//https://polis-mail-ru.github.io/2019-android/02_views_layouts_recycler/023_recycler_view/
